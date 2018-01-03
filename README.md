@@ -26,3 +26,7 @@ Given the license terms of the SDK, I can't distribute it, however you may downl
 [https://www.steinberg.net/en/company/developers.html](https://www.steinberg.net/en/company/developers.html)
 
 Extract the files to .../obs-asio/asiosdk2.3
+
+# [Major Update] See New Repo
+Another fellow plugin dev and I have started working on ASIO support in another git repo see:
+https://github.com/pkviet/obs-studio/tree/asiort
